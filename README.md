@@ -1,4 +1,5 @@
 👋 Hi, I’m Rahul R
+
 👀 I’m interested in:
 Exploring innovative technologies, software development, and open-source contributions. I enjoy working on web development, data-driven projects, and learning about cloud computing.
 

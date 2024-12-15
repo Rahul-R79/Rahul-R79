@@ -11,9 +11,7 @@ Open-source projects, web applications, and anything that solves real-world prob
 
 📫 How to reach me:
 
-Email
-LinkedIn
-Portfolio
+Email - rahul.devworks@gmail.com
 
 😄 Pronouns:
 He/Him

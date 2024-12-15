@@ -4,7 +4,7 @@
 Exploring innovative technologies, software development, and open-source contributions. I enjoy working on web development, data-driven projects, and learning about cloud computing.
 
 🌱 I’m currently learning:
-Full-Stack Development with React and Node.js, DevOps practices, and exploring machine learning fundamentals.
+Full-Stack Development with React and Node.js, DevOps practices, and exploring into AI and generative AI fundamentals.
 
 💞️ I’m looking to collaborate on:
 Open-source projects, web applications, and anything that solves real-world problems with technology.

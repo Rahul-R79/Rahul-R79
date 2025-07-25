@@ -1,25 +1,63 @@
-👋 Hi, I’m Rahul R
+<!-- Animated waving hand SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-r79/rahul-r79/main/assets/wave.gif" width="50px">
+</p>
 
-👀 I’m interested in:
-Exploring innovative technologies, software development, and open-source contributions. I enjoy working on web development, data-driven projects, and learning about cloud computing.
+# 👋 Hi, I’m Rahul R
 
-🌱 I’m currently learning:
-Full-Stack Development with React and Node.js, DevOps practices, and exploring into AI and generative AI fundamentals.
+---
 
-💞️ I’m looking to collaborate on:
-Open-source projects, web applications, and anything that solves real-world problems with technology.
+## 👀 Interests
 
-📫 How to reach me:
+- 🚀 Exploring innovative technologies
+- 🖥️ Software development & open-source contributions
+- 🌐 Web development, data-driven projects, and cloud computing
 
-Email - rahul.devworks@gmail.com
+## 🌱 Currently Learning
 
-😄 Pronouns:
+- ⚛️ Full-Stack Development (React & Node.js)
+- 🛠️ DevOps practices
+- 🤖 AI & Generative AI fundamentals
+
+## 💞️ Let’s Collaborate!
+
+- Open-source projects
+- Web applications
+- Solutions for real-world problems
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-R79&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-R79&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-R79&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- **Email:** [rahul.devworks@gmail.com](mailto:rahul.devworks@gmail.com)
+
+## 😄 Pronouns
+
 He/Him
 
-⚡ Fun fact:
-I can debug code faster than I can decide what to eat for lunch!
+## ⚡ Fun Fact
 
-<!---
-Rahul-R79/Rahul-R79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> I can debug code faster than I can decide what to eat for lunch!
+
+---
+
+<!-- Add skill badges or animated icons below for more flair! -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,git,github,linux,aws" />
+</p>
+
+---
+
+> *“Building with curiosity, collaborating with purpose.”*

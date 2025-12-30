@@ -10,12 +10,21 @@
 
 ### 👋 About Me
 
-I'm a passionate **Full-Stack Developer** dedicated to building high-performance web applications. My expertise lies in the **MERN stack**, where I craft seamless user experiences and robust backend systems.
+I am a **Full-Stack Engineer** dedicated to architecting resilient, high-performance web ecosystems. My approach combines **analytical precision** with **creative problem-solving**, ensuring that every line of code serves a strategic purpose. I specialize in the **MERN stack**, transforming complex abstractions into scalable, production-ready reality.
 
--   🔭 I’m currently focused on **developing responsive, full-stack applications**
--   🌱 Exploring **advanced MongoDB queries, Express optimization, and modern React patterns**
--   💡 I believe technology should be **intuitive, user-friendly, and solve real-world problems**
--   ⚡ Fun fact: I still remember the excitement of building my first HTML/CSS clone!
+-   🔭 **Currently:** Engineering sophisticated full-stack architectures with a focus on optimization and scale.
+-   🎯 **Core Values:** I am a staunch advocate for **Clean Architecture**, **Modular Design**, and **Meticulous Code Quality**.
+-   💡 **Innovation:** I strive to build technology that feels intuitive and solves profound, real-world challenges.
+-   🚀 **Ambition:** Committed to continuous evolution and mastering the frontiers of modern web development.
+
+---
+
+### 🚀 Technical Expertise & Impact
+
+-   ✨ **Frontend Artistry:** Developing fluid, high-fidelity user interfaces utilizing React and cutting-edge design systems.
+-   ⚙️ **Backend Engineering:** Architecting robust, secure, and performant server-side infrastructures and API landscapes.
+-   🧩 **Systemic Problem Solving:** Deconstructing intricate challenges into efficient, maintainable, and logical solutions.
+-   ⚡ **Agile Evolution:** Rapidly adapting to emerging technologies to deliver state-of-the-art software solutions.
 
 ---
 
@@ -23,7 +32,7 @@ I'm a passionate **Full-Stack Developer** dedicated to building high-performance
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass,html,css,nodejs,express,mongodb,redis,aws,js,cpp,git,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass,html,css,ts,nodejs,express,mongodb,postgres,redis,aws,vercel,js,cpp,git,vscode,postman,figma" />
   </a>
 </p>
 
@@ -35,47 +44,34 @@ I'm a passionate **Full-Stack Developer** dedicated to building high-performance
 
 ---
 
-### 🏆 GitHub Trophies
+### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rahul-R79&theme=radical&no-frame=true&column=7" alt="Github Trophies" />
+  <a href="https://www.linkedin.com/in/rahulqwe/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Rahul_dev_LC/" target="blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="leetcode" height="50" />
+  </a>
+  <a href="mailto:rahul.devworks@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="email" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-R79&show_icons=true&theme=radical&border_radius=10&count_private=true" alt="Rahul's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-R79&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-R79&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-R79&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/Rahul_dev_LC?theme=radical" alt="LeetCode Stats" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🌱 Currently Learning & Experimenting
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rahulqwe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulqwe" height="30" width="40" /></a>
-<a href="mailto:rahul.devworks@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rahul.devworks" height="30" width="40" /></a>
-</p>
+-   🚀 **System Design** at scale
+-   🛠️ **DevOps & CI/CD** with GitHub Actions
+-   🤖 **AI Integration** in web applications
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
-<p align="center">
-  <i>Let's build something amazing together!</i><br>
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Coding Animation" />
 </p>

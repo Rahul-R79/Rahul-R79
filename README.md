@@ -1,70 +1,81 @@
-# 🌟 Hi Devs! I'm Rahul R  
-_A Full-Stack MERN Developer & Open-Source Enthusiast_ 🚀  
-
----
-
-## 👋 About Me
-I'm passionate about **building full-stack web applications** using the **MERN stack** (MongoDB, Express, React, Node.js) and crafting **clean, maintainable code**.  
-
-My journey in tech started with a simple **HTML & CSS** clones. I remember feeling like I had just built the next big website 😄. Fast forward, and now I’m developing **scalable web apps with React, Node.js, and MongoDB**, and loving every bit of it!  
-
-🔭 I’m currently focused on **developing responsive, full-stack applications with React and Node.js**  
-🌱 Exploring **advanced MongoDB queries, Express optimization, and modern React patterns**  
-💡 I believe technology should be **intuitive, user-friendly, and solve real-world problems**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-
----
-
-## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20Devs!%20I'm%20Rahul%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=60&descSize=20" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-R79&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-R79&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-R79&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Loves+Clean+and+Maintainable+Code;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+### 👋 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulqwe/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.devworks@gmail.com)
+I'm a passionate **Full-Stack Developer** dedicated to building high-performance web applications. My expertise lies in the **MERN stack**, where I craft seamless user experiences and robust backend systems.
 
+-   🔭 I’m currently focused on **developing responsive, full-stack applications**
+-   🌱 Exploring **advanced MongoDB queries, Express optimization, and modern React patterns**
+-   💡 I believe technology should be **intuitive, user-friendly, and solve real-world problems**
+-   ⚡ Fun fact: I still remember the excitement of building my first HTML/CSS clone!
 
 ---
 
-🙏 Thanks for stopping by!  
-🎯 Let's build something amazing together!  
-![Coding Animation](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+### 🛠️ Tech Stack & Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass,html,css,nodejs,express,mongodb,redis,aws,js,cpp,git,vscode,postman,figma" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Redux%20%7C%20Tailwind-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Redis-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rahul-R79&theme=radical&no-frame=true&column=7" alt="Github Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-R79&show_icons=true&theme=radical&border_radius=10&count_private=true" alt="Rahul's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-R79&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-R79&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-R79&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rahulqwe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulqwe" height="30" width="40" /></a>
+<a href="mailto:rahul.devworks@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rahul.devworks" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together!</i><br>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100" />
+</p>

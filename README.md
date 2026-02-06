@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20Devs!%20I'm%20Rahul%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey, %20I'm%20Rahul%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Loves+Clean+and+Maintainable+Code;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Loves+Clean+and+Maintainable+Code;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---

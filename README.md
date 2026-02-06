@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey, %20I'm%20Rahul%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey%2C%20I%27m%20Rahul%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
@@ -10,21 +10,16 @@
 
 ### 👋 About Me
 
-I am a **Full-Stack Engineer** dedicated to architecting resilient, high-performance web ecosystems. My approach combines **analytical precision** with **creative problem-solving**, ensuring that every line of code serves a strategic purpose. I specialize in the **MERN stack**, transforming complex abstractions into scalable, production-ready reality.
-
--   🔭 **Currently:** Engineering sophisticated full-stack architectures with a focus on optimization and scale.
--   🎯 **Core Values:** I am a staunch advocate for **Clean Architecture**, **Modular Design**, and **Meticulous Code Quality**.
--   💡 **Innovation:** I strive to build technology that feels intuitive and solves profound, real-world challenges.
--   🚀 **Ambition:** Committed to continuous evolution and mastering the frontiers of modern web development.
+I am a **Full-Stack Engineer** passionate about building fast and reliable web applications. I focus on clean code and creative problem-solving to turn complex ideas into scalable software.
 
 ---
 
 ### 🚀 Technical Expertise & Impact
 
--   ✨ **Frontend Artistry:** Developing fluid, high-fidelity user interfaces utilizing React and cutting-edge design systems.
--   ⚙️ **Backend Engineering:** Architecting robust, secure, and performant server-side infrastructures and API landscapes.
--   🧩 **Systemic Problem Solving:** Deconstructing intricate challenges into efficient, maintainable, and logical solutions.
--   ⚡ **Agile Evolution:** Rapidly adapting to emerging technologies to deliver state-of-the-art software solutions.
+- ✨ **Frontend Development:** Building responsive and interactive UI with modern architecture and design systems.
+- ⚙️ **Backend Engineering:** Designing secure and scalable server-side systems and APIs.
+- 🧩 **Problem Solving:** breaking down complex problems into efficient and logical solutions.
+- ⚡ **Continuous Learning:** Quickly adapting to new technologies and tools.
 
 ---
 
@@ -66,9 +61,7 @@ I am a **Full-Stack Engineer** dedicated to architecting resilient, high-perform
 
 ### 🌱 Currently Learning & Experimenting
 
--   🚀 **System Design** at scale
--   🛠️ **DevOps & CI/CD** with GitHub Actions
--   🤖 **AI Integration** in web applications
+- 🤖 **AI Integration** - GenAI and Agentic AI
 
 ---
 

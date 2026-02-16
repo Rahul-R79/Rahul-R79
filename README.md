@@ -59,7 +59,7 @@ I am a **Full-Stack Engineer** passionate about building fast and reliable web a
 
 ---
 
-### 🌱 Currently Learning & Experimenting.
+### 🌱 Currently Learning & Experimenting
 
 - 🤖 **AI Integration** - GenAI and Agentic AI
 

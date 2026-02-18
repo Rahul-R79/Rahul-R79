@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey%2C%20I%27m%20Rahul%20R&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=20" />
-</p>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Loves+Clean+and+Maintainable+Code;Open+Source+Contributor" alt="Typing SVG" />
@@ -63,8 +61,4 @@ I am a **Full-Stack Engineer** passionate about building fast and reliable web a
 
 - 🤖 **AI Integration** - GenAI and Agentic AI
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Coding Animation" />
-</p>

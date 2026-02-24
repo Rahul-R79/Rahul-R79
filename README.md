@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-I am a **Full-Stack Engineer** passionate about building fast and reliable web applications. I focus on clean code and creative problem-solving to turn complex ideas into scalable software.
+I am a **Software Engineer and Open Source Contributor** passionate about building fast and reliable web applications. I focus on clean code and creative problem-solving to turn complex ideas into scalable software.
 
 ---
 

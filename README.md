@@ -2,7 +2,7 @@
 
 <br/>
 
-![Learning](https://img.shields.io/badge/🌱%20Mindset-Always%20Learning%20%3A%29-brightgreen)
+![Learning](https://img.shields.io/badge/🌱%20Mindset-Always%20Learning-brightgreen)
 
 On the left-side tab you can see my **LeetCode**, where I practice problem solving.
 

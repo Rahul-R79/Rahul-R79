@@ -10,4 +10,4 @@ Below that, you can also find my **LinkedIn**, where I share my achievements and
 
 On **GitHub**, you can explore my works, skills, projects, and open-source contributions.
 
-`That’s enough to know about me :)`
+`That’s all about me :)`
